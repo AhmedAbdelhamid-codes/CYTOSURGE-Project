@@ -46,12 +46,12 @@ Includes:
 This project was built as a front-end practice to improve layout structuring, styling, and UI design skills.
 
 ## 🔗 Live Demo
-*(Add your live link here if you deploy it)*
+subtle-sprite-a0267f.netlify.app
 
 ## 👨‍💻 Author
 
 Ahmed Abdelhamid  
-- GitHub: https://github.com/AhmedAbdelhamid-codes
+- facebook: https://www.facebook.com/ahmed.abdelhameed.1806253?locale=ar_AR
 - LinkedIn: https://www.linkedin.com/in/ahmed-abdelhamid-b4905837b/
 
 ---
