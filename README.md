@@ -46,7 +46,7 @@ Includes:
 This project was built as a front-end practice to improve layout structuring, styling, and UI design skills.
 
 ## 🔗 Live Demo
-http://subtle-sprite-a0267f.netlify.app
+http://vocal-stroopwafel-997dac.netlify.app
 
 ## 👨‍💻 Author
 
