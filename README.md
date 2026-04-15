@@ -46,7 +46,7 @@ Includes:
 This project was built as a front-end practice to improve layout structuring, styling, and UI design skills.
 
 ## 🔗 Live Demo
-http://vocal-stroopwafel-997dac.netlify.app
+http://chimerical-melba-39ec8f.netlify.app
 
 ## 👨‍💻 Author
 
