@@ -45,8 +45,9 @@ Includes:
 
 This project was built as a front-end practice to improve layout structuring, styling, and UI design skills.
 
-## 🔗 Live Demo
-(https://ahmedabdelhamid-codes.github.io/CYTOSURGE-Project/)
+---
+## 🌐 Live Demo
+👉 [View Website](https://ahmedabdelhamid-codes.github.io/CYTOSURGE-Project/)
 
 ## 👨‍💻 Author
 
