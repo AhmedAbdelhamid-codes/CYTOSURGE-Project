@@ -46,7 +46,7 @@ Includes:
 This project was built as a front-end practice to improve layout structuring, styling, and UI design skills.
 
 ## 🔗 Live Demo
-http://chimerical-melba-39ec8f.netlify.app
+(https://ahmedabdelhamid-codes.github.io/CYTOSURGE-Project/)
 
 ## 👨‍💻 Author
 
